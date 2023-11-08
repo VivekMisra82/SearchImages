@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VivekMisra82/SearchImages/static/css/main.9fe07851.css",
+    "main.js": "/VivekMisra82/SearchImages/static/js/main.02066e6a.js",
+    "static/js/787.2f295fca.chunk.js": "/VivekMisra82/SearchImages/static/js/787.2f295fca.chunk.js",
+    "index.html": "/VivekMisra82/SearchImages/index.html",
+    "main.9fe07851.css.map": "/VivekMisra82/SearchImages/static/css/main.9fe07851.css.map",
+    "main.02066e6a.js.map": "/VivekMisra82/SearchImages/static/js/main.02066e6a.js.map",
+    "787.2f295fca.chunk.js.map": "/VivekMisra82/SearchImages/static/js/787.2f295fca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe07851.css",
+    "static/js/main.02066e6a.js"
+  ]
+}
